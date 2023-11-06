@@ -1,0 +1,12 @@
+body{
+    background-color: slategray;
+}
+
+@font-face {
+    font-family: Abg;
+    src: url(../fonts/Agbalumo-Regular.ttf);
+}
+
+.fontType{
+    font-family: Abg;
+}
